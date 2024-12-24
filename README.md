@@ -77,25 +77,3 @@
    - Explore strategies from game theory, such as Nash equilibrium or mixed strategies, to guide the agent's decisions.
 
 These approaches are more deterministic and rule-driven compared to reinforcement learning. They rely on explicit rules and logic rather than learning through iterative training.
-
-Notes
-- online game - human player vs agent
-- multiple montys in one
-- random monty's over the whole whats the best thing to do (switch vs not switch)
-- - can it predict the best move even if you don't know what monty you're dealing with
-- Goal
-- - 100 evil montys training
-- - - how does it behave
-- confidence level (%)
-- goal is to learn to maximize the chances
-- customize the monty based on the psychological preferences
-- structure the mind of monty
-- we want the agent to figure out the inner mental state of monty
-- cognitive model of Montyhall
-- - define psychology of monty
-- - psychology dictates behavior
-- - come up with sliders
-- 32 options
-- 6 randimized
-- these many fit the template
-- figure out the best thing to do given the most likely 6 montys
