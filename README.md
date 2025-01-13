@@ -57,8 +57,7 @@
 7. **Monitoring and Refinement:**
    - Continuously monitor the algorithm's performance and refine it as needed based on new observations or insights.
 
- |--------------------------------------------------------|
-
+## 
 ### logic-based or rule-based systems
 #### Not sure this would really count as 'learning'
 1. **Expert Systems:**
